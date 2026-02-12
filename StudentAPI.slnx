@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="StudentAPI.BLL.Tests/StudentAPI.BLL.Tests.csproj" Id="163cfc19-9bef-4636-83e7-da595c2310f6" />
+  <Project Path="StudentAPI.BLL/StudentAPI.BLL.csproj" Id="13ee84eb-1b8d-4ba4-8f38-cb5e86b1b347" />
+  <Project Path="StudentAPI.DAL/StudentAPI.DAL.csproj" Id="b9fad899-4ba3-4177-84fa-6b6190199f75" />
+  <Project Path="StudentAPI.Shared/StudentAPI.Shared.csproj" Id="a9755529-72e3-4537-8ecc-8724f01a4f8f" />
+  <Project Path="StudentAPI/StudentAPI.csproj" />
+</Solution>
